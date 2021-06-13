@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	height: 90px;
+	color: whitesmoke;
+	background-color: rgb(29, 27, 27);
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
+.container{
+	overflow: hidden;
+}
+.left{
+	color: whitesmoke;
+	background-color: rgb(132, 188, 107);
+	height: 500px;
+	width: 50%;
+	text-align: center;
+	float: left;
+}
+h2{
+	font-size: 40px;
+	font-weight: bold;
+}
+.right{
+	height: 500px;
+	width: 50%;
+	color: whitesmoke;
+	background-color: rgb(218, 57, 57);
+	text-align: center;
+	float: right;
+}
+footer{
+	height: 60px;
+	color: black;
+	background-color: rgb(209, 167, 61);
+	text-align: center;
+	font-size: 25px;
+}
